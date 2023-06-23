@@ -43,8 +43,8 @@ body {
   /* Estilos para a div redonda */
 .redondo {
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     margin: 20px auto;
     overflow: hidden;
 }
@@ -170,7 +170,7 @@ p {
 }
   
 .download a {
-    color: #333;
+    color: blue;
     text-decoration: none;
     font-weight: bold;
     font-size: 25px;
